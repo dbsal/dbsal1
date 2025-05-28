@@ -1,4 +1,8 @@
 # mobile
+
+# 3학년 1학기 모바일 최신기술
+
+
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=120&section=header&text=Hello%20&fontSize=40" />
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Confused%20Face.png" alt="Confused Face" width="25" height="25" />
 <img src="https://img.shields.io/badge/javascript-%23FCC624.svg?&style=for-the-badge&logo=javascript-&logoColor=black" />
